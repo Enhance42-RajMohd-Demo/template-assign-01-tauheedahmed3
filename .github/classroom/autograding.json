@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "01_is_odd.py",
+      "setup": "",
+      "run": "01_is_odd.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
+    {
+      "name": "02_is_prime.py",
+      "setup": "",
+      "run": "02_is_prime.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
+    {
+      "name": "00_run_this.py",
+      "setup": "",
+      "run": "00_run_this.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
